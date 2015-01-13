@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-__author__ = 'Isna Rahmatul Khoir <isna@sebangsa.com>'
+__author__ = 'Isna Rahmatul Khoir <isna11583@gmail.com>'
 
 import os 
 import sys
